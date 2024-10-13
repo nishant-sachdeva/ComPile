@@ -1,469 +1,472 @@
-Languages Captured  {'cpp', 'c'}
-Overall 87224 modules.
-Number of unique package_sources 465
-The unique sources are 
-spack:star
-spack:elemental
-spack:pthreadpool
-spack:gpcnet
-spack:nsimd
-spack:faodel
-spack:libsamplerate
-spack:py-pandas
-spack:nanomsg
-spack:libzip
-spack:helics
-spack:pcre
-spack:lighttpd
-spack:metis
-spack:flatcc
-spack:httpd
-spack:aluminum
-spack:c-blosc2
-spack:hacckernels
-spack:sheenbidi
-spack:fortrilinos
-spack:cscope
-spack:brunsli
-spack:ftgl
-spack:itk
-spack:qt-declarative
-spack:easi
-spack:libnetworkit
-spack:formetis
-spack:palisade-development
-spack:stressapptest
-spack:mpdecimal
-spack:trexio
-spack:isa-l-crypto
-spack:cjson
-spack:xedit
-spack:xload
-spack:qnnpack
-spack:transset
-spack:libxfontcache
-spack:py-statsmodels
-spack:speex
-spack:gffcompare
-spack:octopus
-spack:faiss
-spack:xalan-c
-spack:llvm-openmp
-spack:jali
-spack:tinygltf
-spack:suite-sparse
-spack:branson
-spack:libvterm
-spack:dihydrogen
-spack:wayland
-spack:mpibind
-spack:gflags
-spack:libmpdclient
-spack:xerces-c
-spack:simsipm
-spack:less
-spack:libecpint
-spack:freebayes
-spack:jansson
-spack:lerc
-spack:libapreq2
-spack:libxkbcommon
-spack:c-blosc
-spack:umpire
-spack:libwindowswm
-spack:hipsycl
-spack:aocl-sparse
-spack:pugixml
-spack:cmdstan
-spack:sbp
-spack:onednn
-spack:sst-core
-spack:libuecc
-spack:conmon
-spack:bind9
-spack:fontconfig
-spack:scs
-spack:tinyobjloader
-spack:magics
-spack:libmetalink
-spack:symengine
-spack:ftk
-spack:librdkafka
-spack:remhos
-spack:libssh2
-spack:raja
-spack:cnpy
-spack:libicd
-spack:spla
-spack:lmod
-spack:pangolin
-spack:libsolv
-spack:mpitrampoline
-spack:semiprof
-spack:mkfontscale
-spack:py-contourpy
-spack:nasm
-spack:nnvm
-spack:flann
-spack:folly
-spack:jemalloc
-spack:benchmark
-spack:z-checker
-spack:astyle
-spack:metal
-spack:gperftools
-spack:libmonitor
-spack:libtree
-spack:liblbfgs
-https://commondatastorage.googleapis.com/chromium-browser-official/chromium-116.0.5845.140.tar.xz
-spack:py-pysam
-spack:scine-utilities
-spack:sundials
-spack:libxfont2
-spack:abseil-cpp
-spack:py-coverage
-spack:tkrzw
-spack:squashfuse
-spack:bloaty
-spack:re2
-spack:eckit
-spack:genometools
-spack:py-sqlalchemy
-spack:tippecanoe
-spack:zig
-spack:mbedtls
-spack:apr-util
-spack:simde
-spack:ebms
-spack:vtk
-spack:sst-dumpi
-spack:nlcglib
-spack:gloo
-spack:camp
-spack:xnnpack
-spack:cargs
-spack:sst-elements
-spack:pcre2
-spack:dmlc-core
-spack:lua-luajit-openresty
-spack:expat
-spack:xrdcl-record
-spack:kvtree
-spack:py-h5py
-spack:libreproc
-spack:libmaxminddb
-spack:amdblis
-spack:slate
-spack:libyaml
-spack:chemfiles
-spack:memkind
-spack:lcio
-spack:tree-sitter
-spack:mold
-spack:coordgen
-spack:multitime
-spack:tclap
-spack:apr
-spack:speexdsp
-spack:kokkos-kernels
-spack:libfontenc
-spack:fastp
-spack:typhonio
-spack:vc
-spack:mlpack
-spack:adios2
-spack:uriparser
-spack:veloc
-spack:py-scipy
-spack:rankstr
-spack:variorum
-spack:zfp
-spack:cpr
-spack:lcms
-spack:ecflow
-spack:hypre
-spack:embree
-spack:openfast
-spack:adiak
-spack:libxfont
-spack:mapserver
-spack:sirius
-spack:libxml2
-spack:openresty
-spack:libxsmm
-spack:py-matplotlib
-spack:spath
-spack:libnet
-spack:amdlibflame
-spack:bamtools
-spack:fasttext
-spack:libnrm
-spack:blaspp
-spack:amr-wind
-spack:libxvmc
-spack:er
-spack:onnx
-spack:py-cython
-spack:sniffles
-spack:double-conversion
-spack:cppcoro
-spack:model-traits
-spack:xxhash
-spack:ucx
-spack:scitokens-cpp
-spack:libspng
-spack:libisal
-spack:openexr
-spack:amqp-cpp
-spack:atmi
-spack:py-grpcio
-spack:py-pyrsistent
-spack:lwtnn
-spack:libquo
-spack:serialbox
-spack:py-ml-dtypes
-spack:nanoflann
-spack:googletest
-spack:ppopen-at
-spack:libdeflate
-spack:muparserx
-spack:hiredis
-spack:squashfs-mount
-spack:llvm-openmp-ompt
-spack:mongo-c-driver
-spack:xgboost
-spack:muparser
-spack:spdk
-spack:libogg
-spack:nlohmann-json-schema-validator
-spack:py-psutil
-spack:asdf-cxx
-spack:cmocka
-spack:libfastjson
-spack:antimony
-spack:stringtie
-spack:pmlib
-spack:mpilander
-spack:nginx
-spack:taskd
-spack:simplemoc
-spack:libdivsufsort
-spack:libepoxy
-spack:aws-sdk-cpp
-spack:predixy
-spack:flibcpp
-spack:ceres-solver
-spack:libpsl
-spack:otf
-spack:lapackpp
-spack:micromamba
-spack:imath
-spack:vigra
-spack:gmap-gsnap
-spack:costa
-spack:rkcommon
-spack:charliecloud
-spack:libwebp
-spack:gtkorvo-enet
-spack:libtermkey
-spack:intel-tbb
-spack:perl-list-moreutils-xs
-spack:ftxui
-spack:py-genshi
-spack:libunwind
-spack:leveldb
-spack:openimagedenoise
-spack:libluv
-spack:heaptrack
-spack:quo-vadis
-spack:spglib
-spack:highway
-spack:iniparser
-spack:laghos
-spack:libblastrampoline
-spack:py-msgpack
-spack:axl
-spack:axom
-spack:libflame
-spack:babeltrace
-spack:sicm
-spack:sqlcipher
-spack:py-wrapt
-spack:py-markupsafe
-spack:kineto
-spack:netcdf-c
-spack:py-lazy-object-proxy
-spack:kealib
-spack:mimalloc
-spack:cosma
-spack:haccabana
-spack:yara
-spack:eccodes
-spack:dnstop
-spack:fonttosfnt
-spack:parallel-hashmap
-spack:blis
-spack:openssl
-spack:timemory
-spack:redset
-spack:xscope
-spack:qt-base
-spack:su2
-spack:pflask
-spack:py-scikit-learn
-spack:tiled-mm
-spack:hsakmt
-spack:jsonnet
-spack:z3
-spack:xeus
-spack:musl
-spack:liburing
-spack:vtk-m
-spack:brotli
-spack:task
-spack:http-parser
-spack:console-bridge
-spack:mstk
-spack:sparsehash
-spack:demuxlet
-spack:scine-xtb
-spack:libxevie
-spack:yasm
-spack:args
-spack:ccs-qcd
-spack:globalarrays
-spack:fenics-basix
-spack:giflib
-spack:libkcapi
-spack:tracy-client
-spack:tensorpipe
-spack:papyrus
-spack:prmon
-spack:xclock
-spack:yaml-cpp
-spack:qcat
-spack:hwloc
-spack:py-tornado
-spack:samtools
-spack:argon2
-spack:rocm-opencl
-spack:libceed
-spack:libpostal
-spack:minivite
-spack:qb3
-spack:google-crc32c
-spack:scine-readuct
-spack:libbigwig
-spack:ompt-openmp
-spack:hpgmg
-spack:py-mpi4py
-spack:textparser
-spack:eprosima-fastdds
-spack:py-bottleneck
-spack:botan
-spack:rocprofiler-dev
-spack:flatbuffers
-spack:redis-plus-plus
-spack:erlang
-spack:arbor
-spack:mgard
-spack:kokkos
-spack:miopen-opencl
-spack:oneapi-level-zero
-spack:llvm
-spack:ross
-spack:redis
-spack:llvm-amdgpu
-spack:libspatialindex
-spack:openfst
-spack:amg2023
-spack:ndzip
-spack:sjpeg
-spack:nco
-spack:assimp
-spack:zopfli
-spack:libwhich
-spack:cpp-logger
-spack:osqp
-spack:hapcut2
-spack:libvorbis
-spack:glvis
-spack:kallisto
-spack:py-parmed
-spack:ngmlr
-spack:libsvm
-spack:chai
-spack:cpu-features
-spack:shuffile
-spack:cpuinfo
-spack:openvkl
-spack:py-numexpr
-spack:rabbitmq-c
-spack:edm4hep
-spack:libpam
-spack:ramulator
-spack:py-pyyaml
-spack:sio
-spack:libmo-unpack
-spack:microsocks
-spack:libcint
-spack:armadillo
-spack:perfstubs
-spack:py-pennylane-lightning
-spack:py-eprosima-fastdds
-spack:duckdb
-spack:ninja-phylogeny
-spack:xwidgets
-spack:miopengemm
-spack:conserver
-spack:hip
-spack:gffread
-spack:exempi
-spack:lastz
-spack:seal
-spack:phist
-spack:helib
-spack:luit
-spack:scine-core
-spack:libtheora
-spack:libfyaml
-spack:brahma
-spack:eprosima-fastcdr
-spack:pumi
-spack:exaca
-spack:sonlib
-spack:qt-shadertools
-spack:capnproto
-spack:ninja
-spack:heffte
-spack:libfms
-spack:py-pyproj
-spack:bam-readcount
-spack:libpfm4
-spack:petaca
-spack:netlib-xblas
-spack:py-onnx
-spack:lua-luajit
-spack:matio
-spack:jose
-spack:treelite
-spack:xdotool
-spack:isl
-spack:nauty
-spack:spfft
-spack:systemc
-spack:nghttp2
-spack:universal
-spack:oniguruma
-spack:staden-io-lib
-spack:proj
-spack:f3d
-spack:maeparser
-spack:rocm-core
-spack:libuv
-spack:fpzip
-spack:odc
-spack:jhpcn-df
-spack:libaec
-spack:protobuf-c
-spack:coin3d
+Package Source Counts:
+spack:libflame: 4122
+spack:openresty: 317
+spack:openssl: 1212
+spack:aws-sdk-cpp: 491
+spack:genometools: 843
+spack:xnnpack: 2780
+spack:proj: 798
+spack:amdblis: 502
+spack:pcre: 59
+spack:itk: 1478
+spack:simde: 1384
+spack:yara: 44
+spack:amdlibflame: 4381
+spack:yasm: 98
+spack:cmocka: 13
+spack:netlib-xblas: 1058
+spack:hypre: 776
+spack:gmap-gsnap: 300
+spack:duckdb: 286
+spack:speex: 17
+spack:eccodes: 429
+spack:bam-readcount: 290
+spack:netcdf-c: 221
+spack:libquo: 45
+spack:py-pandas: 136
+spack:suite-sparse: 764
+spack:mbedtls: 190
+spack:openfast: 21
+spack:mstk: 246
+spack:vtk: 9787
+spack:samtools: 116
+spack:librdkafka: 86
+spack:libvterm: 9
+spack:adios2: 285
+spack:lua-luajit: 64
+spack:nauty: 118
+spack:nasm: 83
+spack:cmdstan: 90
+spack:oniguruma: 43
+spack:py-scipy: 882
+spack:variorum: 64
+spack:httpd: 182
+spack:bind9: 273
+spack:nanomsg: 142
+spack:py-pysam: 95
+spack:lastz: 51
+spack:sundials: 256
+spack:sicm: 23
+spack:less: 35
+spack:libwebp: 100
+spack:quo-vadis: 95
+spack:libxml2: 93
+spack:globalarrays: 76
+spack:openexr: 327
+spack:jansson: 31
+spack:pcre2: 75
+spack:octopus: 124
+spack:redis: 195
+spack:su2: 662
+spack:seal: 68
+spack:metis: 96
+spack:staden-io-lib: 85
+spack:gtkorvo-enet: 8
+spack:libzip: 124
+spack:spdk: 484
+spack:jemalloc: 113
+spack:hwloc: 74
+spack:isl: 98
+spack:blis: 509
+spack:sio: 23
+spack:flatcc: 48
+spack:libxsmm: 84
+spack:libunwind: 83
+spack:ucx: 198
+spack:hsakmt: 13
+spack:xdotool: 46
+spack:lighttpd: 99
+spack:spglib: 39
+spack:conmon: 16
+spack:nghttp2: 34
+spack:libxfont: 55
+spack:nco: 76
+spack:memkind: 81
+spack:papyrus: 31
+spack:nginx: 89
+spack:erlang: 311
+spack:axl: 8
+spack:star: 174
+spack:xedit: 36
+spack:libpfm4: 117
+spack:zfp: 68
+spack:py-cython: 47
+spack:lcms: 34
+spack:babeltrace: 63
+spack:libxfont2: 32
+spack:squashfuse: 22
+spack:py-grpcio: 584
+spack:tree-sitter: 11
+spack:lua-luajit-openresty: 69
+spack:libsamplerate: 21
+spack:mold: 347
+spack:mimalloc: 17
+spack:jose: 46
+spack:c-blosc2: 71
+spack:pflask: 9
+spack:osqp: 20
+spack:z-checker: 33
+spack:mongo-c-driver: 147
+spack:qnnpack: 51
+spack:bloaty: 208
+spack:cscope: 27
+spack:libxkbcommon: 74
+spack:libicd: 47
+spack:libpostal: 74
+spack:chemfiles: 90
+spack:libogg: 4
+spack:libnet: 48
+spack:py-scikit-learn: 99
+spack:kvtree: 19
+spack:c-blosc: 11
+spack:elemental: 464
+spack:wayland: 39
+spack:libmpdclient: 52
+spack:mpdecimal: 15
+spack:libcint: 44
+spack:sonlib: 49
+spack:libsolv: 56
+spack:phist: 164
+spack:libuv: 23
+spack:perfstubs: 1
+spack:apr: 76
+spack:adiak: 6
+spack:conserver: 13
+spack:py-h5py: 85
+spack:py-statsmodels: 26
+spack:libssh2: 45
+spack:llvm: 10597
+spack:uriparser: 16
+spack:speexdsp: 13
+spack:cjson: 23
+spack:xscope: 28
+spack:py-markupsafe: 4
+spack:qcat: 36
+spack:libmo-unpack: 17
+spack:rocm-opencl: 198
+spack:apr-util: 45
+spack:py-bottleneck: 13
+spack:libfastjson: 8
+spack:libceed: 50
+spack:zig: 11
+spack:kallisto: 43
+spack:amg2023: 1
+spack:isa-l-crypto: 22
+spack:stringtie: 57
+spack:libmonitor: 56
+spack:pumi: 290
+spack:otf: 52
+spack:libxevie: 1
+spack:libapreq2: 15
+spack:libblastrampoline: 9
+spack:libepoxy: 4
+spack:scs: 24
+spack:libfyaml: 21
+spack:libvorbis: 21
+spack:libtheora: 36
+spack:libwindowswm: 1
+spack:rabbitmq-c: 18
+spack:mkfontscale: 5
+spack:fontconfig: 51
+spack:ross: 30
+spack:libmetalink: 14
+spack:py-matplotlib: 46
+spack:py-pyproj: 9
+spack:assimp: 227
+spack:libmaxminddb: 5
+spack:libreproc: 13
+spack:zopfli: 17
+spack:simplemoc: 8
+spack:libkcapi: 7
+spack:libxvmc: 2
+spack:matio: 15
+spack:redset: 18
+spack:timemory: 24
+spack:expat: 14
+spack:mapserver: 126
+spack:brunsli: 40
+spack:hapcut2: 13
+spack:py-coverage: 3
+spack:transset: 2
+spack:dnstop: 3
+spack:multitime: 2
+spack:luit: 6
+spack:libpsl: 3
+spack:xxhash: 6
+spack:spath: 5
+spack:llvm-amdgpu: 3618
+spack:libnrm: 2
+spack:imath: 41
+spack:libyaml: 12
+spack:py-mpi4py: 4
+spack:py-sqlalchemy: 3
+spack:shuffile: 5
+spack:coin3d: 1034
+spack:onednn: 416
+spack:libbigwig: 5
+spack:py-tornado: 1
+spack:pthreadpool: 1
+spack:libisal: 3
+spack:libfontenc: 2
+spack:typhonio: 17
+spack:umpire: 116
+spack:py-genshi: 1
+spack:gpcnet: 7
+spack:sbp: 2
+spack:cpu-features: 6
+spack:protobuf-c: 18
+spack:heaptrack: 14
+spack:libluv: 2
+spack:fonttosfnt: 5
+spack:xload: 3
+spack:sst-dumpi: 4
+spack:ebms: 6
+spack:mpibind: 5
+spack:giflib: 9
+spack:odc: 110
+spack:libdeflate: 7
+spack:rankstr: 3
+spack:cpuinfo: 4
+spack:systemc: 84
+spack:fpzip: 9
+spack:microsocks: 4
+spack:er: 4
+spack:libxfontcache: 1
+spack:liblbfgs: 2
+spack:freebayes: 40
+spack:hiredis: 6
+spack:libfms: 6
+spack:musl: 2
+spack:qt-base: 963
+spack:libtermkey: 5
+spack:libpam: 6
+spack:libuecc: 2
+spack:iniparser: 2
+spack:argon2: 3
+spack:nsimd: 6
+spack:py-psutil: 3
+spack:pangolin: 115
+spack:lmod: 2
+spack:ccs-qcd: 4
+spack:perl-list-moreutils-xs: 1
+spack:libaec: 10
+spack:sqlcipher: 2
+spack:rocprofiler-dev: 18
+spack:xerces-c: 329
+spack:palisade-development: 163
+spack:trexio: 3
+spack:http-parser: 4
+spack:xalan-c: 372
+spack:py-wrapt: 2
+spack:magics: 414
+spack:hpgmg: 5
+spack:vigra: 18
+spack:liburing: 1
+spack:sst-elements: 338
+spack:libdivsufsort: 5
+spack:xclock: 2
+spack:libspng: 2
+spack:charliecloud: 4
+spack:py-onnx: 53
+spack:veloc: 23
+spack:squashfs-mount: 1
+spack:py-lazy-object-proxy: 1
+spack:intel-tbb: 257
+spack:mpitrampoline: 1
+spack:eckit: 428
+spack:libwhich: 1
+spack:petaca: 1
+spack:py-pyrsistent: 1
+spack:ompt-openmp: 32
+spack:faodel: 181
+spack:formetis: 1
+spack:py-pyyaml: 1
+spack:eprosima-fastdds: 218
+spack:libtree: 1
+spack:glvis: 22
+spack:ecflow: 366
+spack:ngmlr: 25
+spack:sheenbidi: 1
+spack:brotli: 1
+spack:tippecanoe: 26
+spack:cargs: 1
+spack:stressapptest: 14
+https://commondatastorage.googleapis.com/chromium-browser-official/chromium-116.0.5845.140.tar.xz: 8527
+spack:folly: 234
+spack:qt-declarative: 1759
+spack:scine-xtb: 7
+spack:vc: 15
+spack:astyle: 6
+spack:treelite: 37
+spack:amr-wind: 319
+spack:vtk-m: 490
+spack:ftxui: 144
+spack:botan: 575
+spack:tkrzw: 34
+spack:fenics-basix: 44
+spack:highway: 84
+spack:libnetworkit: 287
+spack:openvkl: 70
+spack:kokkos-kernels: 101
+spack:gflags: 4
+spack:z3: 777
+spack:arbor: 174
+spack:mgard: 350
+spack:hip: 106
+spack:helics: 166
+spack:scine-utilities: 180
+spack:fortrilinos: 9
+spack:spla: 17
+spack:faiss: 84
+spack:heffte: 52
+spack:raja: 80
+spack:universal: 144
+spack:antimony: 24
+spack:py-contourpy: 31
+spack:slate: 174
+spack:lapackpp: 377
+spack:yaml-cpp: 83
+spack:blaspp: 67
+spack:miopen-opencl: 197
+spack:ceres-solver: 222
+spack:tclap: 30
+spack:embree: 126
+spack:axom: 170
+spack:cpr: 28
+spack:tensorpipe: 53
+spack:llvm-openmp: 30
+spack:asdf-cxx: 16
+spack:jsonnet: 22
+spack:micromamba: 83
+spack:fasttext: 14
+spack:task: 113
+spack:exempi: 125
+spack:libspatialindex: 40
+spack:parallel-hashmap: 36
+spack:gperftools: 119
+spack:amqp-cpp: 19
+spack:sniffles: 44
+spack:xgboost: 75
+spack:easi: 23
+spack:flatbuffers: 40
+spack:edm4hep: 143
+spack:abseil-cpp: 134
+spack:metal: 43
+spack:kokkos: 32
+spack:sirius: 60
+spack:coordgen: 16
+spack:symengine: 92
+spack:capnproto: 74
+spack:openfst: 132
+spack:libecpint: 162
+spack:openimagedenoise: 125
+spack:lcio: 109
+spack:ftk: 10
+spack:sst-core: 115
+spack:aocl-sparse: 17
+spack:predixy: 37
+spack:fastp: 27
+spack:bamtools: 55
+spack:helib: 92
+spack:onnx: 49
+spack:qt-shadertools: 57
+spack:xeus: 31
+spack:ftgl: 34
+spack:f3d: 37
+spack:gffread: 9
+spack:kealib: 5
+spack:sparsehash: 7
+spack:muparserx: 38
+spack:jali: 29
+spack:oneapi-level-zero: 37
+spack:ramulator: 20
+spack:exaca: 11
+spack:args: 6
+spack:demuxlet: 17
+spack:lerc: 14
+spack:leveldb: 39
+spack:hipsycl: 50
+spack:benchmark: 19
+spack:branson: 15
+spack:redis-plus-plus: 17
+spack:xwidgets: 36
+spack:sjpeg: 11
+spack:spfft: 11
+spack:llvm-openmp-ompt: 31
+spack:model-traits: 10
+spack:chai: 5
+spack:kineto: 17
+spack:miopengemm: 44
+spack:simsipm: 6
+spack:nlohmann-json-schema-validator: 17
+spack:nnvm: 14
+spack:ninja: 28
+spack:maeparser: 12
+spack:scitokens-cpp: 8
+spack:double-conversion: 2
+spack:taskd: 32
+spack:py-pennylane-lightning: 32
+spack:prmon: 15
+spack:re2: 21
+spack:rkcommon: 37
+spack:mlpack: 47
+spack:gffcompare: 6
+spack:cppcoro: 18
+spack:muparser: 10
+spack:scine-readuct: 12
+spack:serialbox: 37
+spack:haccabana: 5
+spack:gloo: 31
+spack:cnpy: 2
+spack:lwtnn: 18
+spack:atmi: 10
+spack:googletest: 4
+spack:qb3: 2
+spack:costa: 10
+spack:minivite: 1
+spack:dmlc-core: 8
+spack:py-numexpr: 7
+spack:dihydrogen: 2
+spack:ninja-phylogeny: 20
+spack:aluminum: 7
+spack:cosma: 17
+spack:flibcpp: 7
+spack:eprosima-fastcdr: 5
+spack:tiled-mm: 6
+spack:nlcglib: 1
+spack:ndzip: 9
+spack:laghos: 3
+spack:remhos: 6
+spack:ppopen-at: 9
+spack:nanoflann: 11
+spack:py-parmed: 2
+spack:py-eprosima-fastdds: 4
+spack:flann: 3
+spack:console-bridge: 1
+spack:jhpcn-df: 1
+spack:armadillo: 3
+spack:py-msgpack: 1
+spack:py-ml-dtypes: 2
+spack:hacckernels: 2
+spack:brahma: 5
+spack:mpilander: 1
+spack:cpp-logger: 2
+spack:libsvm: 1
+spack:scine-core: 1
+spack:textparser: 3
+spack:tinyobjloader: 1
+spack:tinygltf: 2
+spack:pmlib: 4
+spack:google-crc32c: 3
+spack:xrdcl-record: 1
+spack:rocm-core: 2
+spack:tracy-client: 1
+spack:camp: 1
+spack:semiprof: 1
+spack:pugixml: 1
+
+Languages Used:
+c
+cpp
+
+Total number of unique package sources: 465

@@ -14,26 +14,37 @@ full_dataset = load_dataset(datasetName, split='train', streaming=True)
 c_cpp_dataset = full_dataset.filter(lambda example: example['language'].startswith('c'))
 
 # ds = c_cpp_dataset.t
+from collections import Counter
 
-package_sources = []
-package_sources_set = set(package_sources)
+# Initialize a Counter for package sources and a set for languages
+package_source_counts = Counter()
+languages_set = set()
 
-languages = []
-languages_set = set(languages)
+print("Counting, fetching started")
 
+# Iterate over the dataset
 for ix, item in enumerate(c_cpp_dataset):
-    package_sources_set.add(item['package_source'])
+    # Update the package source count
+    package_source_counts[item['package_source']] += 1
+    # Add the language to the set
     languages_set.add(item['language'])
+    # Print the current index and language
+    print(f"{ix}, {item['package_source']}, {item['language']}")
 
-    print(f"{ix}, {item['language']}", end="\r")
+print("Iteration finished")
 
-print("Languages Captured ", languages_set)
+# 1. Print out a map { package_source : number_of_occurrences }
+print("Package Source Counts:")
+for source, count in package_source_counts.items():
+    print(f"{source}: {count}")
 
-print("Number of unique package_sources", len(package_sources_set))
-print("The unique sources are ")
+# 2. Print out the languages used
+print("\nLanguages Used:")
+for language in languages_set:
+    print(language)
 
-for src in package_sources_set:
-    print(src)
+# 3. Print out the total number of unique package sources
+print(f"\nTotal number of unique package sources: {len(package_source_counts)}")
 
 # ds = full_dataset.take(3)
 # ds = ds.take(10000)
